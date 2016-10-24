@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZordMovies</string>
+
+    <string name="pager_one_title">one</string>
+    <string name="pager_two_title">two</string>
+    <string name="pager_three_title">three</string>
+</resources>
